@@ -1,0 +1,18 @@
+{
+    "E001": {
+        "name": "string",
+        "city": "string",
+        "age": 4,
+        "gender": "male",
+        "department": "Manager",
+        "Experience": 4
+    },
+    "E002": {
+        "name": "PRYANSHU",
+        "city": "MUMBAI",
+        "age": 34,
+        "gender": "male",
+        "department": "Manager",
+        "Experience": 56
+    }
+}
